@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>The Nani Ubud</title>
+    <link href="https://thenaniubud.github.io/pages/feed.xml" rel="self" />
+    <link href="https://thenaniubud.github.io/pages" />
+    <updated>2020-12-04T16:23:45+08:00</updated>
+    <author>
+        <name>The Nani</name>
+    </author>
+    <id>https://thenaniubud.github.io/pages</id>
+
+    <entry>
+        <title>Restaurant</title>
+        <author>
+            <name>The Nani</name>
+        </author>
+        <link href="https://thenaniubud.github.io/pages/restaurant.html"/>
+        <id>https://thenaniubud.github.io/pages/restaurant.html</id>
+
+        <updated>2020-12-04T15:38:15+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Swimming Pool</title>
+        <author>
+            <name>The Nani</name>
+        </author>
+        <link href="https://thenaniubud.github.io/pages/swimming-pool.html"/>
+        <id>https://thenaniubud.github.io/pages/swimming-pool.html</id>
+
+        <updated>2020-12-04T15:17:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thenaniubud.github.io/pages/media/posts/5/1PTR0161.jpg" alt="" />
+                    Enjoy the fresh air while you are relaxing in the swimming pool&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thenaniubud.github.io/pages/media/posts/5/1PTR0161.jpg" alt="" />
+                <div>Enjoy the fresh air while you are relaxing in the swimming pool in The Nani Ubud during your stay. With natural jungle view in front of the pool, you will feel the ambiance of Ubud with its nature. </div>
+<div> </div>
+<div>Options of long chairs or gazebo are available when you spend your time in the swimming pool of The Nani Ubud. Refreshing beverages and scrumptious snacks are available. </div>
+<div> </div>
+<div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0065.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0065-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0114.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0114-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0115.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0115-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0161.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/5/gallery/1PTR0161-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Deluxe Rooms</title>
+        <author>
+            <name>The Nani</name>
+        </author>
+        <link href="https://thenaniubud.github.io/pages/deluxe-rooms.html"/>
+        <id>https://thenaniubud.github.io/pages/deluxe-rooms.html</id>
+
+        <updated>2020-12-04T16:23:45+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thenaniubud.github.io/pages/media/posts/4/1PTR9791.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9791.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9791-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9813.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9813-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9827.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9827-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9841.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9841-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9856.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/4/gallery/1PTR9856-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Deluxe Suites</title>
+        <author>
+            <name>The Nani</name>
+        </author>
+        <link href="https://thenaniubud.github.io/pages/deluxe-suites.html"/>
+        <id>https://thenaniubud.github.io/pages/deluxe-suites.html</id>
+
+        <updated>2020-12-04T16:23:26+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thenaniubud.github.io/pages/media/posts/3/1PTR9866.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9813.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9813-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9856.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9856-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9866.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9866-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9887.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9887-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9936.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/3/gallery/1PTR9936-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Reservation</title>
+        <author>
+            <name>The Nani</name>
+        </author>
+        <link href="https://thenaniubud.github.io/pages/reservation.html"/>
+        <id>https://thenaniubud.github.io/pages/reservation.html</id>
+
+        <updated>2020-12-04T16:17:23+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thenaniubud.github.io/pages/media/posts/2/1PTR9866.jpg" alt="" />
+                     Please book here and if you have any question, feel free to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thenaniubud.github.io/pages/media/posts/2/1PTR9866.jpg" alt="" />
+                <p> </p>
+<p>Please <a href="https://extranet.ikakua.com/booking.php?propid=72514&amp;referer=BookingLink" target="_blank" rel="noopener noreferrer">book here </a>and if you have any question, feel free to contact us via email</p>
+<p><a href="mailto:info@thenaniubud.com">info@thenaniubud.com</a> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Nani Ubud</title>
+        <author>
+            <name>The Nani</name>
+        </author>
+        <link href="https://thenaniubud.github.io/pages/the-nani-ubud.html"/>
+        <id>https://thenaniubud.github.io/pages/the-nani-ubud.html</id>
+
+        <updated>2020-12-04T14:25:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thenaniubud.github.io/pages/media/posts/1/1PTR0161.jpg" alt="" />
+                    Set in Ubud, 3.4 km from Ubud Palace, The Nani offers accommodation&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thenaniubud.github.io/pages/media/posts/1/1PTR0161.jpg" alt="" />
+                <p>Set in Ubud, 3.4 km from Ubud Palace, The Nani offers accommodation with a restaurant, free private parking, an outdoor swimming pool and a shared lounge. Among the facilities at this property are a 24-hour front desk and room service, along with free WiFi throughout the property. The property offers car hire and features a garden and terrace.</p>
+<p>The units come with air conditioning, a flat-screen TV with satellite channels, a fridge, a kettle, a shower, a hairdryer and a desk. At the guest house all rooms come with a wardrobe and a private bathroom.</p>
+<p>A continental breakfast is available every morning at The Nani.</p>
+<p>Guests at the accommodation will be able to enjoy activities in and around Ubud, like cycling.</p>
+<p>Monkey Forest Ubud is 5 km from The Nani, while Ubud Market is 5 km away. The nearest airport is Ngurah Rai International Airport, 32 km from the guest</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0023.jpg" data-size="2341x1561"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0023-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0065.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0065-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0072.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0072-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0078.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0078-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0093.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0093-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0114.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0114-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0115.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0115-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0128.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0128-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0149.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0149-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0161.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0161-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0175.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR0175-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR9866.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR9866-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR9887.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR9887-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR9936.jpg" data-size="1600x1067"><img loading="lazy" src="https://thenaniubud.github.io/pages/media/posts/1/gallery/1PTR9936-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
